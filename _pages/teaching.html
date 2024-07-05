@@ -1,21 +1,12 @@
 ---
-layout: page
-title: Teaching Experience
+layout: archive
+title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
 
-## UCLA
+{% include base_path %}
 
-### Instructor of Record
-
-- **Undergrad Data in Theory and Practice** (Spring 2024)
-
-### Teaching Assistant
-
-- **Graduate Engaged Social Science** (Winter 2024)
-- **Graduate Social Science Research and Perspectives** (Fall 2023)
-- **Undergrad Intro to Data Analysis** (Spring 2020, 2022)
-- **Undergrad World Politics** (Fall 2020; Winter 2020)
-- **Undergrad Intro to American Politics** (Fall 2018, 2022; Spring 2021; Winter 2022)
-- **Undergrad The Presidency** (Fall 2021)
-- **Undergrad American Political Development** (Winter 2021)
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
