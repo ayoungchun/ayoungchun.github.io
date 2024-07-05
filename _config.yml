@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "website.jpg"
   name             : "Ayoung Chun"
-  pronouns         : "she/her"  
+  pronouns         : 
   bio              : "PhD Candidate in American Politics"
-  location         : 
-  employer         : "UCLA"
+  location         : "UCLA"
+  employer         : #
   uri              : # URL
   email            : "achun029@g.ucla.edu" 
 
