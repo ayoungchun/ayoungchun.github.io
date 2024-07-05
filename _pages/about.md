@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---------
+---
 
 I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles. 
 
