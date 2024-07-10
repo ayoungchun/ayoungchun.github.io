@@ -2,7 +2,7 @@
 Title: "From Start to Save: Do Politicians Favor Seed Donors or Lifeline Donors"
 Collection: Work in Progress
 # permalink: /publication/2015-10-01-paper-title-number-3
-Abstract: 'Whose.'
+Abstract: 'Whose interests do Members of Congress (MCs) defend in Congress?'
 # date: 2015-10-01
 # venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
