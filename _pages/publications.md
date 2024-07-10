@@ -4,16 +4,6 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-{% include base_path %}
- 
- {% for post in site.publications reversed %}
-   {% include archive-single.html %}
- {% endfor %}
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 
 ## Research Publications
 
@@ -34,3 +24,7 @@ Brief description or abstract of the publication.
 - **Link:** [Link to Publication](#)
 
 Brief description or abstract of the publication.
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
