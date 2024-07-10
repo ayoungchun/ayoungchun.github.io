@@ -38,5 +38,5 @@ author_profile: true
     </details>
     
 ## Publications
-You can also find my publications at [googlescholar](https://scholar.google.com/citations?user=yzirkdMAAAAJ&hl=en)
+You can also find my publications at [my google scholar page](https://scholar.google.com/citations?user=yzirkdMAAAAJ&hl=en).
 
