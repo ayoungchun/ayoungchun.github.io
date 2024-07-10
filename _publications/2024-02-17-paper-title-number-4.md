@@ -1,6 +1,6 @@
 ---
 Title: "From Start to Save: Do Politicians Favor Seed Donors or Lifeline Donors"
-Collection: Working Paper
+Collection: Work in Progress
 # permalink: /publication/2015-10-01-paper-title-number-3
 Abstract: 'Whose.'
 # date: 2015-10-01
