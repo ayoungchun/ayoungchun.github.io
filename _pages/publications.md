@@ -7,8 +7,8 @@ author_profile: true
 
 ## Working Papers
 
-### Understanding Committee Assignment Power in State Legislatures
-- **Abstract:** How important is committee assignment power in state legislatures? I argue that the effect of committee assignment power is conflated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fourinaies and Hall (2018). Furthermore, I find that the observed effect showed higher match rates with negative agenda power, i.e., veto power.
+### Understanding Committee Assignment Power in State Legislatures (under review)
+- **Abstract:** How important is committee assignment power in state legislatures? I argue that the effect of committee assignment power is conflated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fourinaies and Hall (2018). In fact, matching and dimension reduction techniques revealed that the observed effect is more closely associated with negative agenda power, i.e., veto power.
 
 ### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians
 - **Abstract:** Are all politician and donor relations equal? I argue that the first supporters to politicians when their odds were lowest (i.e. their first open seat primaries) matter more to them than other donors. Likewise, since donors have supported the candidates at their least favorable electoral point, they have vetted the politician based on their commitment to the donor’s policy preferences and perceived competence (Bawn et al 2023), and will be more loyal to them as well. I test the strength of such relationships by tracking first donor donations to the politicians across multiple elections. Looking at PAC donations to the 102nd Congress to the 115th Congress cohorts, I find that first supporters donate to more terms across candidates’ political tenures than bandwagoning interests and are more reluctant to cut ties with them, opting to oscillate in support rather than abandoning them.
