@@ -6,11 +6,13 @@ author_profile: true
 ---
 <span style="font-family: 'Lucida Console', monospace;">
 ## Dissertation (Book Project)
-### *First to Come, Last to Leave: An Analysis on Seed Donors and Politicians*
+*First to Come, Last to Leave: An Analysis on Seed Donors and Politicians*
+  <div style="margin-left: 20px;">
 <details>
   <summary> Abstract </summary>
   Are all politician and donor relations equal? I argue that the first supporters to politicians when their odds were lowest (i.e. their first open seat primaries) matter more to them than other donors. Likewise, since donors have supported the candidates at their least favorable electoral point, they have vetted the politician based on their commitment to the donor’s policy preferences and perceived competence (Bawn et al 2023), and will be more loyal to them as well. I test the strength of such relationships by tracking first donor donations to the politicians across multiple elections. Looking at PAC donations to the 102nd Congress to the 117th Congress cohorts, I find that first supporters donate to more terms across candidates’ political tenures than bandwagoning interests and are more reluctant to cut ties with them, opting to oscillate in support rather than abandoning them.
 </details>
+    </div>
 - Presented at MPSA 2024, APSA 2024
 
 ### *From Donors to Desks: Tracing the Impact of Early Money on Committee Assignments*
