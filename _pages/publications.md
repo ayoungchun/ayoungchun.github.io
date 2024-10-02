@@ -4,7 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-
+<span style="font-family: 'Lucida Console', monospace;">
 ## Dissertation (Book Project)
 ### *First to Come, Last to Leave: An Analysis on Seed Donors and Politicians*
 <details>
