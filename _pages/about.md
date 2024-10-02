@@ -12,3 +12,7 @@ Welcome! I am a Ph.D. Candidate in the Department of Political Science at the Un
 I study the role of rules and money in lawmaking. I am particularly focused on exploring how 'seed' donors influence the legislative behaviors of Members of Congress. My dissertation aims to assess lawmakers' legislative priorities by evaluating their advocacy efforts for each donor, taking into account their past interactions. Focusing on Members of Congress' committee activities, I employ supervised and semi-supervised machine learning techniques on Congressional hearing transcripts to analyze their speech patterns over both short and long terms.
 
 Prior to UCLA, I completed a BA in Political Science and Applied Statistics at Yonsei University. 
+
+Here is how to pronounce my name: 
+
+![Ayoung Chun](ayoungchun.github.io/images/sayname.jpg)
