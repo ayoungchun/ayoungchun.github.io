@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles (UCLA). 
+Welcome! I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles (UCLA). I study the role of rules and money in lawmaking. 
 
-I study the role of rules and money in lawmaking. I am particularly focused on exploring how 'seed' donors influence the legislative behaviors of Members of Congress. My dissertation aims to assess lawmakers' legislative priorities by evaluating their advocacy efforts for each donor, taking into account their past interactions. Focusing on Members of Congress' committee activities, I employ supervised and semi-supervised machine learning techniques on Congressional hearing transcripts to analyze their speech patterns over both short and long terms.
+My dissertation explores how early donors influence congressional lawmaking. I identify a new group of extremely loyal donors, which I term 'seed donors'—those who contribute to legislators' first open-seat primaries. I examine the extent to which these donors' policy preferences are reflected in Members of Congress' legislative behavior, particularly in their committee assignments and committee hearing speeches.
 
 Prior to UCLA, I completed a BA in Political Science and Applied Statistics at Yonsei University. 
 
-Here is how to pronounce my name: 
+Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).
 
-![Ayoung Chun](ayoungchun.github.io/images/sayname.jpg)
+![How to Pronounce Ayoung Chun](https://ayoungchun.github.io/images/sayname.jpg)
