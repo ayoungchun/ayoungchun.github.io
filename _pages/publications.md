@@ -14,6 +14,7 @@ author_profile: true
 </details>
     </div>
 - Presented at MPSA 2024, APSA 2024
+- keywords: campaign finance, early donors, interest groups, transition states, survival analysis
 
 ### From Donors to Desks: Tracing the Impact of Early Money on Committee Assignments
  <div style="margin-left: 20px;">
@@ -22,6 +23,7 @@ author_profile: true
   Do legislators seek committee assignments that grant access to policies favorable to donors? By tracking Members of Congress’ committee assignments over time, I analyze the likelihood of being assigned to committees tied to early donors, their chances of securing such assignments, and the time spent on these committees. The findings show that MCs actively pursue and succeed in obtaining assignments related to their seed donors.
 </details>
     </div>
+- keywords: congressional committees, legislative politics, interest groups
 
 ### Whose Champion? Investigating Legislators’ Priorities in Committee Hearings
  <div style="margin-left: 20px;">
@@ -31,6 +33,7 @@ author_profile: true
 </details>
        </div>
   - Presented at MPSA 2024, APSA 2024, WiLS 2024
+  - keywords: interest groups, campaign finance, keyATM, naive Bayes classifier, chatGPT-4
 
 ## Working Papers
 ### Understanding Committee Assignment Power in State Legislatures (under review)
@@ -40,6 +43,9 @@ author_profile: true
   How important is committee assignment power in state legislatures? I argue that its effect is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fourinaies and Hall (2018). In fact, matching and dimension reduction techniques revealed that the observed effect is more closely associated with negative agenda power, i.e., veto power.
 </details>
    </div>
+   
+- keywords: state legislatures, procedural powers, party politics, PCA
+  
 ## Publications
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
