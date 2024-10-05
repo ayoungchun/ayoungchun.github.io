@@ -14,6 +14,9 @@ My dissertation explores the influence of early donors on congressional lawmakin
 
 Prior to UCLA, I completed a BA in Political Science and Applied Statistics at Yonsei University. 
 
-Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).
+
+
+
+P.S. Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).
 
 <img src="https://ayoungchun.github.io/images/sayname.jpg" alt="How to Pronounce Ayoung Chun" width="400"/>
