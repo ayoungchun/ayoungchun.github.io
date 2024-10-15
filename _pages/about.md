@@ -25,6 +25,7 @@ redirect_from:
 </ul>
 <br>
 
-Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).<br>
+<p>Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).</p>
 
-<img src="https://ayoungchun.github.io/images/sayname.jpg" alt="How to Pronounce Ayoung Chun" width="400"/>
+<p><img src="https://ayoungchun.github.io/images/sayname.jpg" alt="How to Pronounce Ayoung Chun" width="400"/></p>
+
