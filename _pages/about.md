@@ -16,6 +16,8 @@ My dissertation explores the influence of early donors on congressional lawmakin
  <li> Extremely Loyal Seed Donors: I find that donors who first supported politicians in their early, high-risk races—specifically, open-seat primaries—are more loyal than other donors. Analyzing PAC donations to freshman cohorts from the 102nd to the 117th Congress, I find these “seed donors” contribute across more terms and are less likely to sever ties, preferring to oscillate in support rather than abandon the candidates. </li>
 <li> Seed Donor Interests’ and Committee Assignments: Examining MC's committee assignments over their careers, I find that they increasingly seek and succeed in joining committees whose jurisdictions align with their seed donors' policy interests. </li>
 <li>  Seed Donor Advocacy in Committee Hearings: Analyzing transcripts from House committee hearings in the 107th to 117th sessions, I find that legislators are more likely to advocate for seed donors' interests—particularly when they secured their seat through open-seat primaries followed by non-competitive general elections—over the interests of district and largest donors. </li> </ul>
+
+
 ### Additional Research 
 <ul>
  <li> Committee Assignment Power in State Legislatures: I find that the effect of committee assignment powers in state legislatures is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fouirnaies and Hall (2018) – in fact, the observed effect is more closely associated with negative agenda power, i.e., veto power. </li> </ul>
@@ -26,4 +28,6 @@ My dissertation explores the influence of early donors on congressional lawmakin
 
 
 Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).
+
+
 <img src="https://ayoungchun.github.io/images/sayname.jpg" alt="How to Pronounce Ayoung Chun" width="400"/>
