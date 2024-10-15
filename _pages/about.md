@@ -10,6 +10,7 @@ redirect_from:
   
 Welcome! I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles (UCLA). I study the role of rules and money in lawmaking.
 My dissertation explores the influence of early donors on congressional lawmaking, focusing on a new group of highly loyal donors that I term ‘seed donors’—those who contribute to legislators’ first open-seat primaries. I investigate the extent to which these donors’ policy preferences are reflected in Members of Congress’ legislative behavior, particularly in their committee assignments and hearing speeches. By employing supervised and semi-supervised text analysis methods, and training ChatGPT to verify the results, I find that legislators increasingly seek committee positions related to their seed donors and actively participate in hearings aligned with these donors’ interests.
+
 <b> Dissertation Highlights <\b>
 <ul>
  <li> Extremely Loyal Seed Donors: I find that donors who first supported politicians in their early, high-risk races—specifically, open-seat primaries—are more loyal than other donors. Analyzing PAC donations to freshman cohorts from the 102nd to the 117th Congress, I find these “seed donors” contribute across more terms and are less likely to sever ties, preferring to oscillate in support rather than abandon the candidates. </li>
