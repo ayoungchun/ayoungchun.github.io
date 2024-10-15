@@ -40,7 +40,7 @@ author_profile: true
  <div style="margin-left: 20px;">
 <details>
   <summary> Abstract </summary>
-  How important is committee assignment power in state legislatures? I argue that its effect is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fourinaies and Hall (2018). In fact, matching and dimension reduction techniques revealed that the observed effect is more closely associated with negative agenda power, i.e., veto power.
+  How important is committee assignment power in state legislatures? I argue that its effect is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fouirnaies and Hall (2018). In fact, matching and dimension reduction techniques revealed that the observed effect is more closely associated with negative agenda power, i.e., veto power.
 </details>
    </div>
    
