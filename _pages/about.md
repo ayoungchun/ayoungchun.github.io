@@ -21,13 +21,9 @@ redirect_from:
 
 # Additional Research
 <ul>
- <li> Committee Assignment Power in State Legislatures: I find that the effect of committee assignment powers in state legislatures is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fouirnaies and Hall (2018) – in fact, the observed effect is more closely associated with negative agenda power, i.e., veto power. </li> </ul>
-
-{% if site.author.googlescholar %}
-<p style="text-indent: 30px;"> <div class="wordwrap"> You can also access my published works here: <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-<br>
+ <li> Committee Assignment Power in State Legislatures: I find that the effect of committee assignment powers in state legislatures is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fouirnaies and Hall (2018) – in fact, the observed effect is more closely associated with negative agenda power, i.e., veto power. </li> 
+ <li> {% if site.author.googlescholar %} You can also access my published works here: <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> {% endif %}
+</ul>
 
 Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).
 <br>
