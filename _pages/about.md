@@ -8,8 +8,9 @@ redirect_from:
 ---
 
   
-Welcome! I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles (UCLA). I study the role of rules and money in lawmaking.
-My dissertation explores the influence of early donors on congressional lawmaking, focusing on a new group of highly loyal donors that I term ‘seed donors’—those who contribute to legislators’ first open-seat primaries. I investigate the extent to which these donors’ policy preferences are reflected in Members of Congress’ legislative behavior, particularly in their committee assignments and hearing speeches. By employing supervised and semi-supervised text analysis methods, and training ChatGPT to verify the results, I find that legislators increasingly seek committee positions related to their seed donors and actively participate in hearings aligned with these donors’ interests.
+<p style="text-indent: 30px;"> Welcome! I am a Ph.D. Candidate in the Department of Political Science at the University of California, Los Angeles (UCLA). I study the role of rules and money in lawmaking.<br>
+
+ <p style="text-indent: 30px;"> My dissertation explores the influence of early donors on congressional lawmaking, focusing on a new group of highly loyal donors that I term ‘seed donors’—those who contribute to legislators’ first open-seat primaries. I investigate the extent to which these donors’ policy preferences are reflected in Members of Congress’ legislative behavior, particularly in their committee assignments and hearing speeches. By employing supervised and semi-supervised text analysis methods, and training ChatGPT to verify the results, I find that legislators increasingly seek committee positions related to their seed donors and actively participate in hearings aligned with these donors’ interests.
 
 ### Dissertation Highlights 
 <ul>
@@ -21,13 +22,14 @@ My dissertation explores the influence of early donors on congressional lawmakin
 ### Additional Research 
 <ul>
  <li> Committee Assignment Power in State Legislatures: I find that the effect of committee assignment powers in state legislatures is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fouirnaies and Hall (2018) – in fact, the observed effect is more closely associated with negative agenda power, i.e., veto power. </li> </ul>
-
+<br>
 {% if site.author.googlescholar %}
-  <div class="wordwrap"> You can also access my published works here: <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<p style="text-indent: 30px;"> <div class="wordwrap"> You can also access my published works here: <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+<br>
 
-Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).
-
+<p style="text-indent: 30px;"> Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).
+<br>
 
 <img src="https://ayoungchun.github.io/images/sayname.jpg" alt="How to Pronounce Ayoung Chun" width="400"/>
