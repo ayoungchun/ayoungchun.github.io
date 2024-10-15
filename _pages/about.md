@@ -20,12 +20,10 @@ redirect_from:
 
 <h3>Additional Research</h3>
 <ul>
- <li> Committee Assignment Power in State Legislatures: I find that the effect of committee assignment powers in state legislatures is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fouirnaies and Hall (2018) – in fact, the observed effect is more closely associated with negative agenda power, i.e., veto power. </li> 
- <li> {% if site.author.googlescholar %} You can also access my published works here: <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> {% endif %}
+  <li>Committee Assignment Power in State Legislatures: I find that the effect of committee assignment powers in state legislatures is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fouirnaies and Hall (2018) – in fact, the observed effect is more closely associated with negative agenda power, i.e., veto power.</li> 
+  <li>{% if site.author.googlescholar %} You can also access my published works here: <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>. {% endif %}</li>
 </ul>
-<br>
 
 <p>Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).</p>
 
-<p><img src="https://ayoungchun.github.io/images/sayname.jpg" alt="How to Pronounce Ayoung Chun" width="400"/></p>
-
+<img src="https://ayoungchun.github.io/images/sayname.jpg" alt="How to Pronounce Ayoung Chun" width="400"/>
