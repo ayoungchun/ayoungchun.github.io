@@ -24,6 +24,6 @@ redirect_from:
   <li>{% if site.author.googlescholar %} You can also access my published works here: <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>. {% endif %}</li>
 </ul>
 
-<p>Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).</p>
+<p> <p style="text-indent: 30px;"> Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old).</p>
 
 <img src="https://ayoungchun.github.io/images/sayname.jpg" alt="How to Pronounce Ayoung Chun" width="400"/>
