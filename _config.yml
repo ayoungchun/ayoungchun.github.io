@@ -136,10 +136,10 @@ social:
 
 
 # Analytics
-analytics:
+analytics: "google-analytics-4"
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-LJHNXGCJMR"
 
 
 # Reading Files
