@@ -25,7 +25,7 @@ author_profile: true
     </div>
 - keywords: congressional committees, legislative politics, interest groups
 
-### Whose Champion? Investigating Legislators’ Priorities in Committee Hearings
+### Whose Champion? Investigating Legislators’ Priorities in Committee Hearings 
  <div style="margin-left: 20px;">
 <details>
   <summary> Abstract </summary>
@@ -33,8 +33,9 @@ author_profile: true
 </details>
        </div>
   - Presented at MPSA 2024, APSA 2024, WiLS 2024
-  - <a href="https://www.dropbox.com/scl/fi/3fgracxg3rjlrsaf30el6/chun_committeespeeches.pdf?rlkey=zmyc388pv9qz3anm038cd4djv&st=rejgkm3c&dl=0?dl=1">Download the PDF here</a>
   - keywords: interest groups, campaign finance, keyATM, naive Bayes classifier, chatGPT-4
+  - <a href="https://www.dropbox.com/scl/fi/3fgracxg3rjlrsaf30el6/chun_committeespeeches.pdf?rlkey=zmyc388pv9qz3anm038cd4djv&st=rejgkm3c&dl=1">Download the paper here</a>
+
 
 ## Working Papers
 ### Understanding Committee Assignment Power in State Legislatures (under review)
