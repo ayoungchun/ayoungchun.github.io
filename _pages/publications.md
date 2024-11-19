@@ -35,7 +35,7 @@ author_profile: true
   - Presented at MPSA 2024, APSA 2024, WiLS 2024
   - keywords: interest groups, campaign finance, text-as-data, topic models, GPT-4
   
-  - <a href="https://www.dropbox.com/scl/fi/2yqajcvk7klpxjdylgnek/chun_whosechampion_nov.pdf?rlkey=v4nq5ryb2wlwi9lq97efr4ad8&st=mtu32gwr&dl=0">Download the paper here</a>
+  - <a href="https://www.dropbox.com/scl/fi/mgmv0b8ypftzpx8ba0plp/chun_whosechampion_nov.pdf?rlkey=u42l6y5npiibce5x9kij6ds6h&st=r31fsz2b&dl=0">Download the paper here</a>
 
 
 ## Working Papers
