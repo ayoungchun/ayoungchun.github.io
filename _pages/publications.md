@@ -35,7 +35,7 @@ author_profile: true
   - Presented at MPSA 2024, APSA 2024, WiLS 2024
   - keywords: interest groups, campaign finance, keyATM, naive Bayes classifier, GPT-4
   
-  - <a href="https://www.dropbox.com/scl/fi/uw29e7dlxry2rfae66xde/chun_speechincommittees_nov.pdf?rlkey=6jl3lw0ccrgs4mmgbpahalq0z&st=vlsw1hwf&dl=0">Download the paper here</a>
+  - <a href="https://www.dropbox.com/scl/fi/2yqajcvk7klpxjdylgnek/chun_whosechampion_nov.pdf?rlkey=v4nq5ryb2wlwi9lq97efr4ad8&st=mtu32gwr&dl=0">Download the paper here</a>
 
 
 ## Working Papers
