@@ -6,7 +6,7 @@ author_profile: true
 ---
 <span style="font-family: 'Lucida Console', monospace;">
 ## Dissertation (Book Project)
-### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians
+### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians (under review)
   <div style="margin-left: 20px;">
 <details>
   <summary> Abstract </summary>
