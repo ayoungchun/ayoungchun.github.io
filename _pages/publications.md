@@ -20,7 +20,7 @@ author_profile: true
  <div style="margin-left: 20px;">
 <details>
   <summary> Abstract </summary>
-  Do legislators seek committee assignments that grant access to policies favorable to donors? By tracking Members of Congress’ committee assignments over time, I analyze the likelihood of being assigned to committees tied to early donors, their chances of securing such assignments, and the time spent on these committees. The findings show that MCs actively pursue and succeed in obtaining assignments related to their seed donors.
+ I look at whether legislators try to sit in committees whose jurisdictions is related to their seed donors’ interests. I define committee jurisdiction in two ways: (1) by examining donations to committee members in the past election cycle and (2) by identifying where bills on specific policy interests were assigned from the floor. To test whether legislators join committees aligned with their seed donors’ interests, I analyze the match rates between MCs’ seed donor interests and committee affiliations over their careers. I also run a survival model, treating placement on a seed interest-related committee as an event, and compare the time it takes for MCs to join a seed donor interest committee versus a bandwagon interest committee. I find that most legislators secure a position on a seed donor-related committee by their fourth cycle, with Republicans doing so earlier and at a higher rate than Democrats.
 </details>
     </div>
 - keywords: congressional committees, legislative politics, interest groups
