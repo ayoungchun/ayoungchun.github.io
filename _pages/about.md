@@ -13,14 +13,14 @@ redirect_from:
 
 <h3>Dissertation Highlights</h3>
 <ul>
-<li> First to Come, Last to Leave: Seed Donors and Politicians (under review): I find that donors who first supported politicians in their early, high-risk races—specifically, open-seat primaries—are more loyal than other donors. Analyzing PAC donations to freshman cohorts from the 102nd to the 117th Congress, I find these “seed donors” contribute across more terms and are less likely to sever ties, preferring to oscillate in support rather than abandon the candidates. </li>
+<li> First to Come, Last to Leave: Seed Donors and Politicians: I find that donors who first supported politicians in their early, high-risk races—specifically, open-seat primaries—are more loyal than other donors. Analyzing PAC donations to freshman cohorts from the 102nd to the 117th Congress, I find these “seed donors” contribute across more terms and are less likely to sever ties, preferring to oscillate in support rather than abandon the candidates. </li>
 <li> Seed Donor Interests’ and Committee Assignments: Examining MC's committee assignments over their careers, I find that they increasingly seek and succeed in joining committees whose jurisdictions align with their seed donors' policy interests. </li>
 <li> <a href="https://www.dropbox.com/scl/fi/h05rgmjfx8ka7cti3b1l8/chun_committees_nov.pdf?rlkey=uk2r8xhshvanmaj5308ili5ov&st=6bxhom1y&dl=0"> Whose Champion? Investigating Legislators’ Priorities in Committee Hearings </a>: Analyzing transcripts from House committee hearings in the 107th to 117th sessions, I find that legislators are more likely to advocate for seed donors' interests—particularly when they secured their seat through open-seat primaries followed by non-competitive general elections—over the interests of district and largest donors. </li> 
 </ul>
 
 <h3>Additional Research</h3>
 <ul>
-  <li>Committee Assignment Power in State Legislatures (under review): I find that the effect of committee assignment powers in state legislatures is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fouirnaies and Hall (2018) – in fact, the observed effect is more closely associated with negative agenda power, i.e., veto power.</li> 
+  <li>Committee Assignment Power in State Legislatures: I find that the effect of committee assignment powers in state legislatures is often overestimated in contemporary literature. While influential, removing high-leverage individuals and states yielded significantly smaller estimated effects than the findings of Fouirnaies and Hall (2018) – in fact, the observed effect is more closely associated with negative agenda power, i.e., veto power.</li> 
   <li>{% if site.author.googlescholar %} You can also access my published works here: <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>. {% endif %}</li>
 </ul>
 
