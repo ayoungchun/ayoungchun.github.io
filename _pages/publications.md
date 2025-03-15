@@ -6,7 +6,7 @@ author_profile: true
 ---
 <span style="font-family: 'Lucida Console', monospace;">
 ## Dissertation (Book Project)
-### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians (under review)
+### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians
   <div style="margin-left: 20px;">
 <details>
   <summary> Abstract </summary>
@@ -39,7 +39,7 @@ author_profile: true
 
 
 ## Working Papers
-### Understanding Committee Assignment Power in State Legislatures (under review)
+### Understanding Committee Assignment Power in State Legislatures
  <div style="margin-left: 20px;">
 <details>
   <summary> Abstract </summary>
