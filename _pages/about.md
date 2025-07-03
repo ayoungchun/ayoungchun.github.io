@@ -13,7 +13,7 @@ redirect_from:
 
 <p>  My research has been generously supported by the Pauley Foundation and the Institute for Humane Studies. At UCLA, I received the Graduate Dean’s Scholar Award and the Dissertation Year Award. Prior to UCLA, I earned a B.A. in Political Science and a B.A. in Applied Statistics from Yonsei University in Seoul, South Korea.</p>
 
-​<p>  I can teach courses in American Politics, Quantitative Methods, and Critical Data Theory. At UCLA, was lead instructor or TA for a combined 16 quarters, which included both graduate and undergraduate courses. </p> 
+<p> I can teach courses in American Politics, Quantitative Methods, and Critical Data Theory. At UCLA, was lead instructor or TA for a combined 16 quarters, which included both graduate and undergraduate courses.</p>
 
 <p> Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old). </p>
 
