@@ -16,7 +16,7 @@ author_profile: true
        </div>
   - <a href="https://www.dropbox.com/scl/fi/h05rgmjfx8ka7cti3b1l8/chun_committees_nov.pdf?rlkey=uk2r8xhshvanmaj5308ili5ov&st=kpaglvvh&dl=0](https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=i6wjs4bp&dl=0">Download the paper here</a>
   
-## Working Papers Under Review
+## Working Papers - Under Review
 ### Bundled Power: Rethinking Committee Assignment Power in U.S. State Legislatures
  <div style="margin-left: 20px;">
 <details>
@@ -25,7 +25,8 @@ What does "committee assignment power" actually measure, and what kind of politi
 </details>
    </div>
   - <a href="https://www.dropbox.com/scl/fi/h05rgmjfx8ka7cti3b1l8/chun_committees_nov.pdf?rlkey=uk2r8xhshvanmaj5308ili5ov&st=kpaglvvh&dl=0](https://www.dropbox.com/scl/fi/dfqn7yrz9qqhgui9120t3/Bundled_Influence_Version_2.pdf?rlkey=qtu4zi9fulevt3ha4zdl0xpmh&st=yr8cunq2&dl=0">Download the paper here</a>
-  
+
+## Working Papers - Prepared for Submission
 ### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians 
   <div style="margin-left: 20px;">
 <details>
@@ -37,7 +38,6 @@ PAC-level analyses confirm these patterns, while highlighting that donor resilie
 </details>
     </div>
   - <a href="https://www.dropbox.com/scl/fi/h05rgmjfx8ka7cti3b1l8/chun_committees_nov.pdf?rlkey=uk2r8xhshvanmaj5308ili5ov&st=kpaglvvh&dl=0](https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=i6wjs4bp&dl=0](https://www.dropbox.com/scl/fi/ap83dk2jjnbg8tb4rzifc/chun_first_to_come.pdf?rlkey=8jwtk3f9d5q1zaogesk5jv20e&st=talc7chm&dl=0">Download the paper here</a>
-
     
 ## Working Papers 
 ### From Donors to Desks: Tracing the Impact of Early Money on Committee Assignments
@@ -47,7 +47,6 @@ PAC-level analyses confirm these patterns, while highlighting that donor resilie
  I look at whether legislators try to sit in committees whose jurisdictions is related to their seed donors’ interests. I define committee jurisdiction in two ways: (1) by examining donations to committee members in the past election cycle and (2) by identifying where bills on specific policy interests were assigned from the floor. To test whether legislators join committees aligned with their seed donors’ interests, I analyze the match rates between MCs’ seed donor interests and committee affiliations over their careers. I also run a survival model, treating placement on a seed interest-related committee as an event, and compare the time it takes for MCs to join a seed donor interest committee versus a bandwagon interest committee. I find that most legislators secure a position on a seed donor-related committee by their fourth cycle, with Republicans doing so earlier and at a higher rate than Democrats.
 </details>
     </div>
-
 
 ## Publications
 {% if site.author.googlescholar %}
