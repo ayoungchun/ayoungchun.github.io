@@ -89,6 +89,7 @@
 
   img {
     max-width: 240px;
+    border-radius: 50%;   // 👈 makes profile photo perfectly circular
 
     @include breakpoint($large) {
       padding: 5px;
@@ -120,7 +121,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $global-font-family;   // changed
+  font-family: $global-font-family;   // Roboto
   font-size: $type-size-5;
 }
 
@@ -153,7 +154,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $global-font-family;   // changed
+  font-family: $global-font-family;   // Roboto
   z-index: 10;
   cursor: pointer;
 
