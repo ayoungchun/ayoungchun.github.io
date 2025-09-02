@@ -24,7 +24,7 @@ author_profile: true
 What does "committee assignment power" actually measure, and what kind of political influence does it represent? While prior work (e.g., Fouirnaies and Hall 2018) treats assignment authority as a discrete institutional lever, I argue it functions as a proxy for a broader bundle of leadership powers. Using state-by-state regressions, I show that the estimated effect of assignment power on campaign contributions is highly composition-sensitive, driven by a handful of states and influential legislators. Comparing models with and without the assignment indicator, I find that its explanatory weight shifts to leadership offices such as Speaker and Senate President, while the Committee on Committees chair fails to absorb it -- suggesting that the variable captures more than the act of assigning members. Linking to Anzia and Jackman’s (2013) coding of procedural powers, I show that assignment power co-moves most strongly with agenda and gatekeeping tools. These findings reframe assignment authority as part of a broader leadership package centered on agenda control.
 </details>
    </div>
-  - <a href="https://www.dropbox.com/scl/fi/yzs80ahk63iehhul70dva/chun_bundled_power.pdf?rlkey=hqyqungnhyakehbd387kdkfoc&st=t7y18vzi&dl=0">Download the paper here</a>
+  - <a href="https://www.dropbox.com/scl/fi/9xghx2ou4t5ax79jllhm3/chun_bundledpower.pdf?rlkey=j4l8ltmwmlw1itgpo6x14od2u&st=h35iwf8s&dl=0">Download the paper here</a>
 
 ## Working Papers - Prepared for Submission
 ### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians 
