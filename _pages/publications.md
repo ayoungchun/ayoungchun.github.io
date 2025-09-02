@@ -14,7 +14,7 @@ author_profile: true
   Whose interests do legislators advocate for in lawmaking? The literature has extensively explored the incentives shaping legislators' behavior, with particular focus on the roles of donors and constituents. This study specifically examines the influence of early donors ("seed interests") on legislators' actions during committee hearings. By analyzing transcripts from committee hearings in the 107th to 117th sessions of the House of Representatives using supervised and semi-supervised topic models, and cross-validating the results with an AI assistant, I investigate whether legislators prioritize their seed interests over those of their constituents or largest donors, especially in relation to the electoral conditions under which these relationships were formed. The findings reveal that legislators are more likely to advocate for seed donors when they secured their seat through open-seat primaries followed by non-competitive general elections. In contrast, legislators show less consistent support for seed donors when elected through more competitive routes, where they are incentivized to appeal to the broader electorate. These results highlight a new type of interest group-legislator relationship that may help explain legislators' lawmaking behavior.
 </details>
        </div>
-  - <a href="https://www.dropbox.com/scl/fi/h05rgmjfx8ka7cti3b1l8/chun_committees_nov.pdf?rlkey=uk2r8xhshvanmaj5308ili5ov&st=kpaglvvh&dl=0](https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=i6wjs4bp&dl=0">Download the paper here</a>
+  - <a href="https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=wk4n2mnx&dl=0">Download the paper here</a>
   
 ## Working Papers - Under Review
 ### Bundled Power: Rethinking Committee Assignment Power in U.S. State Legislatures
@@ -24,7 +24,7 @@ author_profile: true
 What does "committee assignment power" actually measure, and what kind of political influence does it represent? While prior work (e.g., Fouirnaies and Hall 2018) treats assignment authority as a discrete institutional lever, I argue it functions as a proxy for a broader bundle of leadership powers. Using state-by-state regressions, I show that the estimated effect of assignment power on campaign contributions is highly composition-sensitive, driven by a handful of states and influential legislators. Comparing models with and without the assignment indicator, I find that its explanatory weight shifts to leadership offices such as Speaker and Senate President, while the Committee on Committees chair fails to absorb it -- suggesting that the variable captures more than the act of assigning members. Linking to Anzia and Jackman’s (2013) coding of procedural powers, I show that assignment power co-moves most strongly with agenda and gatekeeping tools. These findings reframe assignment authority as part of a broader leadership package centered on agenda control.
 </details>
    </div>
-  - <a href="https://www.dropbox.com/scl/fi/h05rgmjfx8ka7cti3b1l8/chun_committees_nov.pdf?rlkey=uk2r8xhshvanmaj5308ili5ov&st=kpaglvvh&dl=0](https://www.dropbox.com/scl/fi/dfqn7yrz9qqhgui9120t3/Bundled_Influence_Version_2.pdf?rlkey=qtu4zi9fulevt3ha4zdl0xpmh&st=yr8cunq2&dl=0">Download the paper here</a>
+  - <a href="https://www.dropbox.com/scl/fi/yzs80ahk63iehhul70dva/chun_bundled_power.pdf?rlkey=hqyqungnhyakehbd387kdkfoc&st=t7y18vzi&dl=0">Download the paper here</a>
 
 ## Working Papers - Prepared for Submission
 ### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians 
@@ -37,7 +37,7 @@ support), durability (likelihood of exit), and resilience (likelihood of returni
 PAC-level analyses confirm these patterns, while highlighting that donor resilience is coordinated at the interest-group level. These findings suggest that early donations—especially in open-seat primaries—reflect deliberate, long-term investments in access and influence, with important implications for understanding strategic donor behavior and legislative representation.
 </details>
     </div>
-  - <a href="https://www.dropbox.com/scl/fi/h05rgmjfx8ka7cti3b1l8/chun_committees_nov.pdf?rlkey=uk2r8xhshvanmaj5308ili5ov&st=kpaglvvh&dl=0](https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=i6wjs4bp&dl=0](https://www.dropbox.com/scl/fi/ap83dk2jjnbg8tb4rzifc/chun_first_to_come.pdf?rlkey=8jwtk3f9d5q1zaogesk5jv20e&st=talc7chm&dl=0">Download the paper here</a>
+  - <a href="https://www.dropbox.com/scl/fi/ap83dk2jjnbg8tb4rzifc/chun_first_to_come.pdf?rlkey=8jwtk3f9d5q1zaogesk5jv20e&st=zi4b17ry&dl=0">Download the paper here</a>
     
 ## Working Papers 
 ### From Donors to Desks: Tracing the Impact of Early Money on Committee Assignments
