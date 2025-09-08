@@ -17,11 +17,11 @@ author_profile: true
   - <a href="https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=wk4n2mnx&dl=0">Download the paper here</a>
   
 ## Working Papers - Under Review
-### Bundled Power: Rethinking Committee Assignment Power in U.S. State Legislatures
+### Bundled Power: Donors' Interest on Procedural Powers in U.S. State Legislatures
  <div style="margin-left: 20px;">
 <details>
   <summary> Abstract </summary>
-What does "committee assignment power" actually measure, and what kind of political influence does it represent? While prior work (e.g., Fouirnaies and Hall 2018) treats assignment authority as a discrete institutional lever, I argue it functions as a proxy for a broader bundle of leadership powers. Using state-by-state regressions, I show that the estimated effect of assignment power on campaign contributions is highly composition-sensitive, driven by a handful of states and influential legislators. Comparing models with and without the assignment indicator, I find that its explanatory weight shifts to leadership offices such as Speaker and Senate President, while the Committee on Committees chair fails to absorb it -- suggesting that the variable captures more than the act of assigning members. Linking to Anzia and Jackman’s (2013) coding of procedural powers, I show that assignment power co-moves most strongly with agenda and gatekeeping tools. These findings reframe assignment authority as part of a broader leadership package centered on agenda control.
+I examine the extent to which interest groups attend to institutional rules and procedures of lawmaking by assessing how they reward legislators with different types of procedural authority. I begin by unpacking a widely used measure of influence —- ``committee assignment power'' -- and show that its apparent effect on campaign contributions is composition-sensitive, driven by a few states and legislators. When compared across models, the explanatory weight of assignment power shifts towards leadership offices such as the Speaker and Senate President, suggesting that donors are not valuing assignment authority in isolation. Linking this analysis to Anzia and Jackman’s (2013) coding of procedural powers, I demonstrate that what looks like donor responsiveness to assignment power is in fact most strongly tied to agenda-setting and gatekeeping tools. Contributions flow primarily to a bundled package of leadership powers that structure lawmaking, rather than to a single procedural lever.
 </details>
    </div>
   - <a href="https://www.dropbox.com/scl/fi/9xghx2ou4t5ax79jllhm3/chun_bundledpower.pdf?rlkey=j4l8ltmwmlw1itgpo6x14od2u&st=h35iwf8s&dl=0">Download the paper here</a>
