@@ -24,7 +24,7 @@ author_profile: true
 I examine the extent to which interest groups attend to institutional rules and procedures of lawmaking by assessing how they reward legislators with different types of procedural authority. I begin by unpacking a widely used measure of influence —- ``committee assignment power'' -- and show that its apparent effect on campaign contributions is composition-sensitive, driven by a few states and legislators. When compared across models, the explanatory weight of assignment power shifts towards leadership offices such as the Speaker and Senate President, suggesting that donors are not valuing assignment authority in isolation. Linking this analysis to Anzia and Jackman’s (2013) coding of procedural powers, I demonstrate that what looks like donor responsiveness to assignment power is in fact most strongly tied to agenda-setting and gatekeeping tools. Contributions flow primarily to a bundled package of leadership powers that structure lawmaking, rather than to a single procedural lever.
 </details>
    </div>
-  - <a href="https://www.dropbox.com/scl/fi/9xghx2ou4t5ax79jllhm3/chun_bundledpower.pdf?rlkey=j4l8ltmwmlw1itgpo6x14od2u&st=h35iwf8s&dl=0">Download the paper here</a>
+  - <a href="https://www.dropbox.com/scl/fi/2us864tas8qodyk8rxfaw/bundled_influence_lsq.pdf?rlkey=2yab1x260au6xsq2xaoaohkki&st=10oqrypo&dl=0">Download the paper here</a>
 
 ## Working Papers - Prepared for Submission
 ### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians 
