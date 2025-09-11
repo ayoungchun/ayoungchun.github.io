@@ -14,6 +14,8 @@ redirect_from:
 
 <p> I can teach courses in American Politics, Quantitative Methods, and Critical Data Theory. At UCLA, I was lead instructor or TA for a combined 16 quarters, for both undergraduate and graduate courses.</p>
 
+<p> I am on the 2025-2026 academic job market. </p>
+
 <p> Here is how to pronounce my name: AH (sound you make at the dentist) - young (as opposed to old). </p>
 
 <img src="https://ayoungchun.github.io/images/sayname.jpg" alt="How to Pronounce Ayoung Chun" width="400"/>
