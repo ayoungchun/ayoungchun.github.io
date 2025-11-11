@@ -10,7 +10,7 @@ redirect_from:
 
 <p> I study the role of early donors in candidate emergence and congressional lawmaking. My book project examines the influence of seed donors (those who contribute to legislators’ first successful open-seat primaries) on Members of Congress’ legislative behavior, with a focus on committee assignments and hearing speeches. Using supervised and semi-supervised text analysis methods, along with validation from an AI assistant, I find that legislators engage more actively in seed donor–related lawmaking activities.</p>
 
-<p>  My research has been generously supported by the Center for Effective Lawmaking (CEL), the Pauley Foundation, and the Institute for Humane Studies. At UCLA, I received the Graduate Dean’s Scholar Award and the Dissertation Year Award. Prior to UCLA, I earned a B.A. in Political Science and a B.A. in Applied Statistics from Yonsei University in Seoul, South Korea.</p>
+<p>  My research has been generously supported by the Center for Effective Lawmaking (CEL), the Pauley Foundation, and the Institute for Humane Studies (IHS). At UCLA, I received the Graduate Dean’s Scholar Award and the Dissertation Year Award. Prior to UCLA, I earned a B.A. in Political Science and a B.A. in Applied Statistics from Yonsei University in Seoul, South Korea.</p>
 
 <p> I can teach courses in American Politics, Money in Politics, Quantitative Methods, and Critical Data Theory. At UCLA, I was lead instructor or TA for a combined 16 quarters, for both undergraduate and graduate courses.</p>
 
