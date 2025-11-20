@@ -16,8 +16,9 @@ author_profile: true
        </div>
   - <a href="https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=wk4n2mnx&dl=0">Download the paper here</a>
   
-## Working Papers - Under Review
+## Working Papers - Under Review & R&R
 ### Bundled Power: How Donors Value Procedural Powers in U.S. State Legislatures
+*Revise & Resubmit, Legislative Studies Quarterly*
  <div style="margin-left: 20px;">
 <details>
   <summary> Abstract </summary>
@@ -25,9 +26,9 @@ I examine the extent to which interest groups attend to institutional rules and 
 </details>
    </div>
   - <a href="https://www.dropbox.com/scl/fi/2us864tas8qodyk8rxfaw/bundled_influence_lsq.pdf?rlkey=2yab1x260au6xsq2xaoaohkki&st=10oqrypo&dl=0">Download the paper here</a>
-
-## Working Papers - Prepared for Submission
+  
 ### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians 
+*Under Review*
   <div style="margin-left: 20px;">
 <details>
   <summary> Abstract </summary>
