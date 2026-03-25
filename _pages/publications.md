@@ -36,7 +36,6 @@ support), durability (likelihood of exit), and resilience (likelihood of returni
 PAC-level analyses confirm these patterns, while highlighting that donor resilience is coordinated at the interest-group level. These findings suggest that early donations—especially in open-seat primaries—reflect deliberate, long-term investments in access and influence, with important implications for understanding strategic donor behavior and legislative representation.
 </details>
     </div>
-  - <a href="https://www.dropbox.com/scl/fi/ap83dk2jjnbg8tb4rzifc/chun_first_to_come.pdf?rlkey=8jwtk3f9d5q1zaogesk5jv20e&st=zi4b17ry&dl=0">Download the paper here</a>
     
 ## Working Papers 
 ### From Donors to Desks: Tracing the Impact of Early Money on Committee Assignments
