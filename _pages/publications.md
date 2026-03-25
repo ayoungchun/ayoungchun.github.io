@@ -61,6 +61,6 @@ author_profile: true
 ## Publications
 {% if site.author.googlescholar %}
 <div class="wordwrap">
-  You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  You can also find my publications on <a href="https://scholar.google.com/citations?user=yzirkdMAAAAJ&hl=en">my Google Scholar profile</a>.
 </div>
 {% endif %}
