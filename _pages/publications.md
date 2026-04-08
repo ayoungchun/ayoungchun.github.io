@@ -48,6 +48,8 @@ author_profile: true
 
 ### From Donors to Desks: Tracing the Impact of Early Money on Committee Assignments
 
+*Under Review*
+
 <div style="margin-left: 20px;">
 <details>
   <summary>Abstract</summary>
