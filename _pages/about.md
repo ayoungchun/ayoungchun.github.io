@@ -24,7 +24,7 @@ I am on the 2025–2026 academic job market. <a href="https://www.dropbox.com/sc
 </p>
 
 <p>
-My name is pronounced AH (as in “ah”) – young (as in “young”).
+My name is pronounced AH (sound you make at the dentist) – young (as opposed to old).
 </p>
 
 <img src="https://ayoungchun.github.io/images/sayname.jpg" alt="How to Pronounce Ayoung Chun" width="400"/>
