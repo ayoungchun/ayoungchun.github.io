@@ -46,7 +46,7 @@ author_profile: true
 </details>
 </div>
 
-### From Donors to Desks: Tracing the Impact of Early Money on Committee Assignments
+### Tracing the Impact of Early Money on Committee Assignments
 
 *Under Review*
 
