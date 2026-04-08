@@ -8,7 +8,7 @@ redirect_from:
 <p>
 Welcome. I am Ayoung Chun, a Postdoctoral Research Associate in the <a href="https://cla.purdue.edu/academic/polsci/research/labs/pair-program/index.html" target="_blank">Program on American Institutional Renewal (PAIR)</a> at Purdue University. I received my Ph.D. in Political Science from the University of California, Los Angeles (UCLA) in June 2025. 
 
-My research examines how campaign finance shapes American political institutions. My book project studies how legislators’ earliest donors influence their lawmaking behavior in the U.S. Congress, particularly through committee activity and legislative speech. My other work explores how financial contributions relate to lawmaking power in state legislatures and to Supreme Court nominations.
+My research examines how campaign finance shapes American political institutions. Methodologically, I employ text-as-data techniques, network analysis, and machine learning to link money in politics to patterns of lawmaking. My book project studies how legislators’ earliest donors influence their lawmaking behavior in the U.S. Congress, particularly through committee activity and legislative speech. My other work explores how financial contributions relate to lawmaking power in state legislatures and to Supreme Court nominations.
 </p>
 
 <p>
