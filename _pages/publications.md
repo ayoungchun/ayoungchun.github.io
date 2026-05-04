@@ -59,6 +59,40 @@ author_profile: true
 </details>
 </div>
 
+## Working Papers
+### Resentment Capital: Affective Motivations and the Nationalization of Small-Dollar Congressional Giving
+
+<div style="margin-left: 20px;">
+<details>
+  <summary>Abstract</summary>
+
+  Why do individual donors give money to congressional candidates outside their own state or district? The dominant rationalist account holds that campaign contributions are investments in legislative access or policy outcomes, implying donors should prefer candidates who can plausibly deliver returns. Yet the dramatic growth of out-of-state small-dollar giving to congressional races defies this logic: geographically distant donors cannot extract access, and their collective policy demands are often incoherent. Drawing on the Cooperative Election Study (CES) from 2006 to 2024, I argue that the nationalization of congressional small-dollar giving is affectively driven. Using validated donation data linked to racial resentment and gender hostility batteries fielded consistently across CES waves, I show that out-of-state congressional donors are distinguished not by ideological extremity or strong policy preferences but by elevated affective grievance. I further leverage variation across election cycles to identify political shocks---including the 2010 Tea Party mobilization, the 2016 Trump candidacy, the 2020 Black Lives Matter protests, and the 2022 <em>Dobbs</em> decision---as events that selectively recruit affectively motivated donors into the nationalized giving pool. My findings challenge access-seeking models of campaign finance and suggest that legislators reliant on nationalized small-dollar fundraising are beholden to a constituency defined less by policy demands than by emotional grievance, with implications for legislative behavior, representation, and the internal organization of Congress.
+
+</details>
+</div>
+
+### Picking Winners or Making Them? Donor Composition in Open Seat House Primaries
+
+<div style="margin-left: 20px;">
+<details>
+  <summary>Abstract</summary>
+
+  Are donors responding to candidate viability signals, or are they generating them? Using open seat House primaries from 2000 to 2022, I classify donors as access-oriented, ideological, or local/civic based on prior FEC giving history, and examine whether the composition of early money---contributions made before polling or major endorsements exist---predicts primary outcomes above and beyond total dollars raised. Within-race comparisons with race fixed effects isolate variation in donor composition across candidates competing in the same primary. I find that candidates receiving a higher share of ideological early money win primaries at higher rates conditional on total fundraising, suggesting that donor type confers legitimacy and momentum independent of resource levels. These results challenge purely access-seeking models of donor behavior and point toward an emergent role for affectively and ideologically motivated small-dollar donors in shaping who enters and succeeds in congressional politics.
+
+</details>
+</div>
+
+### Seed Donor Networks and Bipartisan Coalition Formation in Congress
+
+<div style="margin-left: 20px;">
+<details>
+  <summary>Abstract</summary>
+
+  Why do some legislators form durable bipartisan coalitions while others remain locked in partisan silos? This paper argues that the answer lies, in part, in the structure of legislators' pre-primary donor networks. I introduce the concept of seed donors, defined as organized interests that commit resources before a candidate's electoral viability is established, and construct a Donor Compatibility Index (DCI) measuring pairwise overlap in seed-donor portfolios for all House legislator dyads in the 115th and 116th Congresses (2017--2021). Because seed donors are investment-driven and selective, their overlap between two legislators constitutes a stronger signal of shared policy alignment than generic donor overlap does. I test whether DCI predicts bipartisan cosponsorship tie formation. Results show that DCI is positively associated with bipartisan cosponsorship across all specifications, surviving the inclusion of legislator fixed effects, ideological distance controls, and a horse-race comparison against total donor overlap. The association is stronger for cross-party dyads than for same-party dyads, and is most pronounced in organized-interest-intensive domains such as agriculture and energy, with no detectable effect in social policy. The findings suggest that the pre-primary financial environment leaves a durable imprint on the architecture of legislative cooperation, and that the investment-access distinction in campaign finance research has empirical consequences as well as theoretical ones.
+
+</details>
+</div>
+
 ## Publications
 {% if site.author.googlescholar %}
 <div class="wordwrap">
