@@ -93,6 +93,15 @@ author_profile: true
 </details>
 </div>
 
+### Thermostatic Donors? Revisiting the Thermostatic Model of Congressional Elections
+*with Logan Strother (Purdue)*
+
+### Money and SCOTUS Nominations
+*with Logan Strother (Purdue)*
+
+### Congressional Staffer Policy Portfolios
+*with Jesse Crosson (Purdue), Alexander Furnas (Northwestern), and Tim LaPira (James Madison)*
+
 ## Publications
 {% if site.author.googlescholar %}
 <div class="wordwrap">
