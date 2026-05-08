@@ -14,7 +14,7 @@ My research has been supported by the Center for Effective Lawmaking (CEL), the 
 </p>
 
 <p>
-I am on the 2025–2026 academic job market. <a href="https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=wk4n2mnx&dl=0">Here is my job paper.</a>
+I am on the 2025–2026 academic job market. I can teach courses in American politics, money in politics, quantitative methods, and critical data theory. At UCLA, I served as an instructor or teaching assistant for 16 quarters across undergraduate and graduate courses. <a href="https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=wk4n2mnx&dl=0">Here is my job paper.</a> 
 </p>
 
 <p>
