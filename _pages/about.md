@@ -22,7 +22,7 @@ I am on the 2026–2027 academic job market. <a href="https://www.dropbox.com/sc
 </p>
 
 <p>
-I teach courses in American politics, political institutions, money in politics, quantitative methods, and critical data theory. At UCLA, I served as an instructor or teaching assistant across 16 undergraduate and graduate courses.
+I can teach courses in American politics, political institutions, money in politics, quantitative methods, and critical data theory. At UCLA, I served as an instructor or teaching assistant across 16 undergraduate and graduate courses.
 </p>
 
 <p>
