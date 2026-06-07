@@ -37,6 +37,8 @@ How do organized interests value institutional power in American legislatures? I
 </details>
 </div>
 
+* <a href="https://drive.google.com/file/d/1AIvQPYH6mXoGdyt08kYTbZ7U_0IOuRCI/view?usp=sharing">Download the paper here</a>
+
 ## Papers Under Review
 
 ### First to Come, Last to Leave: An Analysis on Seed Donors and Politicians
