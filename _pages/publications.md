@@ -25,7 +25,7 @@ Whose interests do legislators advocate for in lawmaking? The literature has ext
 
 ### Bundled Power: How Donors Value Procedural Powers in U.S. State Legislatures
 
-*<em>Chun, A.2026. “Bundled Power: How Donors Value Procedural Powers in U.S. State Legislatures.” Legislative Studies Quarterly51, no. 3: e70076. https://doi.org/10.1111/lsq.70076.</em>*
+*<em> Chun, A.2026. “Bundled Power: How Donors Value Procedural Powers in U.S. State Legislatures.” Legislative Studies Quarterly51, no. 3: e70076. https://doi.org/10.1111/lsq.70076.</em>*
 
 *Winner, Best Graduate Student Paper Award, APSA State Politics and Policy Section (2026)*
 
@@ -37,8 +37,6 @@ How do organized interests value institutional power in American legislatures? I
 
 </details>
 </div>
-
-* <a href="https://drive.google.com/file/d/1AIvQPYH6mXoGdyt08kYTbZ7U_0IOuRCI/view?usp=sharing">Download the paper here</a>
 
 ## Papers Under Review
 
