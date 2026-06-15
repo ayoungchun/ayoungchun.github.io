@@ -21,11 +21,11 @@ Whose interests do legislators advocate for in lawmaking? The literature has ext
 
 * <a href="https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=wk4n2mnx&dl=0">Download the paper here</a>
 
-## Forthcoming
+## Publicactions
 
 ### Bundled Power: How Donors Value Procedural Powers in U.S. State Legislatures
 
-*Forthcoming at <em>Legislative Studies Quarterly</em>*
+*<em>Legislative Studies Quarterly 51, no. 3</em>*
 *Winner, Best Graduate Student Paper Award, APSA State Politics and Policy Section (2026)*
 
 <div style="margin-left: 20px;">
