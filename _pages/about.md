@@ -14,7 +14,7 @@ My research examines how campaign finance shapes political representation and in
 </p>
 
 <p>
-My research is forthcoming in <i>Legislative Studies Quarterly</i>. My work has received the Best Graduate Student Paper Award from APSA’s State Politics and Policy Section (2026) and the Virginia Gray Graduate Student Research Award from APSA’s Political Organizations and Parties Section (2024). My research has also been supported by the Center for Effective Lawmaking (CEL), the Pauley Foundation, and the Institute for Humane Studies (IHS).
+My research is published in <i>Legislative Studies Quarterly</i>. My work has received the Best Graduate Student Paper Award from APSA’s State Politics and Policy Section (2026) and the Virginia Gray Graduate Student Research Award from APSA’s Political Organizations and Parties Section (2024). My research has also been supported by the Center for Effective Lawmaking (CEL), the Pauley Foundation, and the Institute for Humane Studies (IHS).
 </p>
 
 <p>
