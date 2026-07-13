@@ -107,9 +107,18 @@ a:hover {
 }
 
 .profile-links {
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
+    margin-top: 12px;
+    font-size: 0.95rem;
+    color: var(--muted);
+}
+
+.profile-links a {
+    color: var(--muted);
+    text-decoration: none;
+}
+
+.profile-links a:hover {
+    color: var(--link);
 }
 
 .profile-links{
