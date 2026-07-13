@@ -1,5 +1,5 @@
----
 
+---
 layout: archive
 title: "Research"
 permalink: /publications/
@@ -23,7 +23,7 @@ Whose interests do legislators advocate for in lawmaking? The literature has ext
 
 ## Publications
 
-*<em> Chun, A. 2026. “Bundled Power: How Donors Value Procedural Powers in U.S. State Legislatures.” Legislative Studies Quarterly 51, no. 3: e70076. https://doi.org/10.1111/lsq.70076.</em>*
+*<em>Chun, A. 2026. “Bundled Power: How Donors Value Procedural Powers in U.S. State Legislatures.” Legislative Studies Quarterly 51, no. 3: e70076. https://doi.org/10.1111/lsq.70076.</em>*
 
 *Winner, Best Graduate Student Paper Award, APSA State Politics and Policy Section (2026)*
 
@@ -65,7 +65,9 @@ I examine whether legislators seek committee assignments whose jurisdictions ali
 </div>
 
 ### Picking Winners or Making Them? Donor Composition in Open Seat House Primaries
+
 *Under Review*
+
 <div style="margin-left: 20px;">
 <details>
   <summary>Abstract</summary>
@@ -99,6 +101,19 @@ Why do some legislators form durable bipartisan coalitions while others remain l
 </details>
 </div>
 
+### Growing Into the Job? Tenure, Specialization, and the Consistency of Legislative Agendas
+
+<div style="margin-left: 20px;">
+<details>
+  <summary>Abstract</summary>
+
+Do legislators' policy agendas become more consistent as they accumulate time in office? This paper tests whether legislative tenure predicts increasing consistency in members of Congress's substantive policy focus, distinguishing a <em>maturation</em> account---legislators genuinely narrow and stabilize their agendas as they gain seniority, expertise, and institutional position---from a <em>selection</em> account, in which legislators who already had narrow, consistent agendas were more electable, so cross-sectional differences between junior and senior members reflect who survives rather than what happens to individuals over a career. Using bill-sponsorship data classified into policy topic domains for members of the U.S. House, I construct two within-legislator measures of agenda consistency across consecutive Congresses: a Herfindahl-Hirschman concentration index capturing the breadth of a legislator's issue portfolio, and a cosine-similarity measure capturing whether legislators return to the <em>same</em> topics term over term rather than merely narrowing to a different topic each time. I embed both in legislator fixed-effects panel models, which isolate within-person change in consistency from the confound of who remains in office. As a secondary test, I examine whether topical consistency corresponds to ideological consistency, measured via Nokken-Poole ideal points, asking whether "agenda consistency" is a single underlying disposition or several loosely coupled tendencies.
+
+</details>
+</div>
+
+## Collaborative Works
+
 ### Thermostatic Donors? Revisiting the Thermostatic Model of Congressional Elections
 
 *with Logan Strother (Purdue)*
@@ -111,11 +126,10 @@ Why do some legislators form durable bipartisan coalitions while others remain l
 
 *with Jesse Crosson (Purdue), Alexander Furnas (Northwestern), and Tim LaPira (James Madison)*
 
-## Publications
-
 {% if site.author.googlescholar %}
 
 <div class="wordwrap">
   You can also find my publications on <a href="https://scholar.google.com/citations?user=yzirkdMAAAAJ&hl=en">my Google Scholar profile</a>.
 </div>
+
 {% endif %}
