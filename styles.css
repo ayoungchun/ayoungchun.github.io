@@ -90,7 +90,7 @@ a:hover {
 .profile-photo {
   display: block;
   width: 100%;
-  max-width: 290px;
+  max-width: 220px;
   aspect-ratio: 1 / 1.1;
   object-fit: cover;
   border-radius: 6px;
