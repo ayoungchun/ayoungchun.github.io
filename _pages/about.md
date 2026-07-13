@@ -14,7 +14,7 @@ My research examines how campaign finance shapes political representation and le
 </p>
 
 <p>
-My research has appeared in Legislative Studies Quarterly and has been recognized with the APSA State Politics and Policy Section's Best Graduate Student Paper Award and the APSA Political Organizations and Parties Section's Virginia Gray Graduate Student Research Award. I am on the 2026–2027 academic job market. You can find my Research, CV, and Job Market Paper using the links above.
+My research has appeared in Legislative Studies Quarterly and has been recognized with the APSA State Politics and Policy Section's Best Graduate Student Paper Award and the APSA Political Organizations and Parties Section's Virginia Gray Graduate Student Research Award. I am on the 2026–2027 academic job market. 
 </p>
 
 <p>
