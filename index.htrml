@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Ayoung Chun</title>
+
+  <meta
+    name="description"
+    content="Ayoung Chun is a political scientist studying campaign finance, legislative institutions, and political representation."
+  >
+
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="nav-wrap">
+      <a class="site-name" href="index.html">Ayoung Chun</a>
+
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="assets/cv.pdf" target="_blank" rel="noopener">CV</a>
+        <a href="research.html">Research</a>
+        <a href="teaching.html">Teaching</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page-wrap">
+    <section class="hero">
+      <div class="profile-column">
+        <img
+          class="profile-photo"
+          src="assets/photo.jpg"
+          alt="Portrait of Ayoung Chun"
+        >
+
+        <h1>Ayoung Chun</h1>
+
+        <p class="position">
+          Postdoctoral Research Associate<br>
+          Program on American Institutional Renewal<br>
+          Purdue University
+        </p>
+
+        <div class="profile-links">
+          <a href="mailto:achun029@gmail.com">Email</a>
+          <a
+            href="https://scholar.google.com/citations?user=yzirkdMAAAAJ&hl=en"
+            target="_blank"
+            rel="noopener"
+          >
+            Google Scholar
+          </a>
+          <a href="assets/cv.pdf" target="_blank" rel="noopener">CV</a>
+        </div>
+      </div>
+
+      <div class="intro-column">
+        <p>
+          Hi! I am Ayoung Chun, a Postdoctoral Research Associate in the
+          <a
+            href="https://cla.purdue.edu/academic/polsci/research/labs/pair-program/index.html"
+            target="_blank"
+            rel="noopener"
+          >
+            Program on American Institutional Renewal (PAIR)
+          </a>
+          at Purdue University. I received my Ph.D. in Political Science from
+          the University of California, Los Angeles in 2025.
+        </p>
+
+        <p>
+          My research examines how campaign finance shapes political
+          representation and legislative institutions in American politics.
+          I study how relationships between donors and legislators develop,
+          how political institutions structure those relationships, and how
+          financial support is translated into influence inside Congress and
+          state legislatures.
+        </p>
+
+        <p>
+          My research has appeared in
+          <em>Legislative Studies Quarterly</em> and has received the APSA State
+          Politics and Policy Section’s Best Graduate Student Paper Award and
+          the APSA Political Organizations and Parties Section’s Virginia Gray
+          Graduate Student Research Award.
+        </p>
+
+        <p>
+          I am on the 2026–2027 academic job market.
+          <a
+            href="https://www.dropbox.com/scl/fi/u9vvy1m1ap964dhzf2ovn/chun_whose_champion.pdf?rlkey=l29go1jndpy0x3mrdoyl4oq6n&st=wk4n2mnx&dl=0"
+            target="_blank"
+            rel="noopener"
+          >
+            Read my job market paper.
+          </a>
+        </p>
+
+        <div class="pronunciation">
+          <h2>Name pronunciation</h2>
+
+          <p>
+            My name is pronounced <strong>AH-young</strong>:
+            “AH” as in the sound you make at the dentist, followed by “young.”
+          </p>
+
+          <img
+            class="pronunciation-image"
+            src="images/sayname.jpg"
+            alt="Illustration explaining how to pronounce Ayoung"
+          >
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Ayoung Chun</p>
+  </footer>
+</body>
+</html>
