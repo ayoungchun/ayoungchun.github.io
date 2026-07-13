@@ -182,7 +182,7 @@ select {
 }
 
 .site-container > section {
-  margin-top: 5rem;
+  margin-top: 4.6rem;
 }
 
 .site-container > section:first-child {
@@ -214,17 +214,6 @@ select {
 
 .about-text {
   min-width: 0;
-}
-
-.about-text h1 {
-  margin: -0.1rem 0 1rem;
-
-  color: var(--heading);
-
-  font-size: clamp(2rem, 4vw, 2.55rem);
-  font-weight: 760;
-  line-height: 1.08;
-  letter-spacing: -0.035em;
 }
 
 .about-text p {
@@ -280,21 +269,21 @@ select {
 }
 
 /* =========================================================
-   MAIN SECTION HEADINGS
+   MAJOR SECTION HEADINGS
    ========================================================= */
 
 .section-title {
   position: relative;
 
-  margin: 0 0 2rem;
+  margin: 0 0 1.9rem;
   padding-bottom: 0.75rem;
 
   color: var(--heading);
 
-  font-size: 1.65rem;
-  font-weight: 750;
-  line-height: 1.2;
-  letter-spacing: -0.025em;
+  font-size: 1.72rem;
+  font-weight: 780;
+  line-height: 1.15;
+  letter-spacing: -0.028em;
 
   border-bottom: 1px solid var(--border);
 }
@@ -304,7 +293,7 @@ select {
   bottom: -1px;
   left: 0;
 
-  width: 54px;
+  width: 60px;
   height: 3px;
 
   content: "";
@@ -313,11 +302,11 @@ select {
 }
 
 /* =========================================================
-   RESEARCH SECTIONS
+   RESEARCH SUBSECTIONS
    ========================================================= */
 
 .research-section {
-  margin-top: 3.5rem;
+  margin-top: 2.45rem;
 }
 
 .research-section:first-of-type {
@@ -325,14 +314,21 @@ select {
 }
 
 .research-section-title {
-  margin: 0 0 1.35rem;
+  display: inline-block;
 
-  color: var(--heading);
+  margin: 0 0 0.95rem;
+  padding: 0.3rem 0.7rem;
 
-  font-size: 1.15rem;
-  font-weight: 720;
-  line-height: 1.35;
-  letter-spacing: -0.01em;
+  color: var(--accent-dark);
+  background: var(--accent-soft);
+
+  border-radius: 5px;
+
+  font-size: 0.8rem;
+  font-weight: 780;
+  line-height: 1.2;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 /* =========================================================
@@ -340,25 +336,24 @@ select {
    ========================================================= */
 
 .paper-entry {
-  margin: 0 0 1.8rem;
-  padding: 0 0 1.8rem;
-
-  border-bottom: 1px solid var(--border);
+  margin: 0;
+  padding: 0;
+  border-bottom: 0;
 }
 
-.paper-entry:last-child {
-  margin-bottom: 0;
+.paper-entry + .paper-entry {
+  margin-top: 1.55rem;
 }
 
 .paper-entry h4 {
-  margin: 0 0 0.48rem;
+  margin: 0 0 0.34rem;
 
   color: var(--heading);
 
   font-size: 1.08rem;
-  font-weight: 700;
-  line-height: 1.42;
-  letter-spacing: -0.012em;
+  font-weight: 710;
+  line-height: 1.38;
+  letter-spacing: -0.01em;
 }
 
 .paper-meta {
@@ -367,24 +362,28 @@ select {
   color: var(--muted);
 
   font-size: 0.9rem;
-  line-height: 1.55;
+  line-height: 1.5;
 }
 
 .paper-award {
-  margin: 0.42rem 0 0;
+  margin: 0.3rem 0 0;
 
   color: #7a5c23;
 
-  font-size: 0.9rem;
+  font-size: 0.89rem;
   font-style: italic;
-  line-height: 1.5;
+  line-height: 1.45;
 }
+
+/* =========================================================
+   FEATURED JOB MARKET PAPER
+   ========================================================= */
 
 .featured-paper {
   position: relative;
 
-  margin-top: 0.4rem;
-  padding: 1.55rem 1.65rem;
+  margin-top: 0;
+  padding: 1.35rem 1.5rem;
 
   background:
     linear-gradient(
@@ -394,14 +393,14 @@ select {
     );
 
   border: 1px solid #cfdfe5;
-  border-radius: 12px;
+  border-radius: 11px;
   box-shadow: var(--shadow-soft);
 }
 
 .featured-paper::before {
   position: absolute;
-  top: 1.15rem;
-  bottom: 1.15rem;
+  top: 1rem;
+  bottom: 1rem;
   left: 0;
 
   width: 4px;
@@ -424,8 +423,8 @@ select {
   flex-wrap: wrap;
   align-items: center;
 
-  gap: 0.55rem;
-  margin-top: 0.85rem;
+  gap: 0.5rem;
+  margin-top: 0.65rem;
 }
 
 .paper-links a,
@@ -470,8 +469,8 @@ select {
    ========================================================= */
 
 .paper-abstract {
-  margin-top: 1rem;
-  padding: 1rem 1.15rem;
+  margin-top: 0.9rem;
+  padding: 0.95rem 1.1rem;
 
   color: #4d555d;
   background: var(--surface-soft);
@@ -480,7 +479,7 @@ select {
   border-radius: 0 8px 8px 0;
 
   font-size: 0.93rem;
-  line-height: 1.72;
+  line-height: 1.7;
 }
 
 .paper-abstract p {
@@ -492,47 +491,38 @@ select {
 }
 
 /* =========================================================
-   COMPACT COLLABORATIVE PROJECTS
+   COLLABORATIVE PROJECTS
    ========================================================= */
 
 .compact-paper {
-  margin-bottom: 1rem;
-  padding-bottom: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+.compact-paper + .compact-paper {
+  margin-top: 1.15rem;
 }
 
 .compact-paper h4 {
-  margin-bottom: 0.25rem;
-}
-
-.scholar-note {
-  margin: 2.5rem 0 0;
-  padding: 1rem 1.1rem;
-
-  color: var(--muted);
-  background: var(--surface-soft);
-
-  border: 1px solid var(--border);
-  border-radius: 8px;
-
-  font-size: 0.9rem;
-}
-
-.scholar-note p {
-  margin: 0;
+  margin-bottom: 0.22rem;
 }
 
 /* =========================================================
    TEACHING SECTION
    ========================================================= */
 
+#research + #teaching {
+  margin-top: 4.2rem;
+}
+
 .teaching-grid {
   display: grid;
   grid-template-columns: 0.85fr 1.15fr;
-  gap: 42px;
+  gap: 30px;
 }
 
 .teaching-column {
-  padding: 1.35rem 1.4rem;
+  padding: 1.3rem 1.35rem;
 
   background: var(--surface);
   border: 1px solid var(--border);
@@ -544,13 +534,15 @@ select {
 }
 
 .teaching-column h3 {
-  margin: 0 0 1rem;
+  margin: 0 0 0.9rem;
 
-  color: var(--heading);
+  color: var(--accent-dark);
 
-  font-size: 1.04rem;
-  font-weight: 720;
-  line-height: 1.35;
+  font-size: 0.92rem;
+  font-weight: 780;
+  line-height: 1.3;
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
 }
 
 .teaching-column ul {
@@ -559,8 +551,8 @@ select {
 }
 
 .teaching-column li {
-  margin-bottom: 0.85rem;
-  padding-left: 0.15rem;
+  margin-bottom: 0.78rem;
+  padding-left: 0.12rem;
 }
 
 .teaching-column li:last-child {
@@ -569,7 +561,7 @@ select {
 
 .course-detail {
   display: block;
-  margin-top: 0.12rem;
+  margin-top: 0.1rem;
 
   color: var(--muted);
 
@@ -577,10 +569,13 @@ select {
   line-height: 1.45;
 }
 
-.teaching-links {
-  margin: 1rem 0 0;
+.course-resource-separator {
+  margin: 0 0.35rem;
+  color: var(--muted);
+}
 
-  font-size: 0.9rem;
+.course-resource-link {
+  font-size: 0.92rem;
 }
 
 /* =========================================================
@@ -685,7 +680,7 @@ button:focus-visible {
   }
 
   .site-container > section {
-    margin-top: 4rem;
+    margin-top: 3.8rem;
   }
 
   .profile-row {
@@ -698,20 +693,26 @@ button:focus-visible {
     border-radius: 12px;
   }
 
-  .about-text h1 {
-    font-size: 2rem;
-  }
-
   .section-title {
-    font-size: 1.45rem;
+    margin-bottom: 1.55rem;
+    font-size: 1.48rem;
   }
 
   .research-section {
-    margin-top: 2.9rem;
+    margin-top: 2.15rem;
+  }
+
+  .research-section-title {
+    margin-bottom: 0.8rem;
+    font-size: 0.76rem;
+  }
+
+  .paper-entry + .paper-entry {
+    margin-top: 1.35rem;
   }
 
   .featured-paper {
-    padding: 1.25rem 1.15rem;
+    padding: 1.2rem 1.15rem;
   }
 
   .featured-paper::before {
@@ -725,6 +726,10 @@ button:focus-visible {
 
   .paper-abstract {
     padding: 0.9rem 1rem;
+  }
+
+  #research + #teaching {
+    margin-top: 3.6rem;
   }
 
   .teaching-column {
@@ -750,13 +755,4 @@ button:focus-visible {
   .site-nav {
     font-size: 0.9rem;
   }
-}
-
-.course-resource-separator {
-  margin: 0 0.35rem;
-  color: var(--muted);
-}
-
-.course-resource-link {
-  font-size: 0.92rem;
 }
