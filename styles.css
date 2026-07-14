@@ -272,8 +272,16 @@ select {
    MAJOR SECTION HEADINGS
    ========================================================= */
 
+/* =========================================================
+   MAJOR SECTION HEADINGS
+   ========================================================= */
+
 .section-title {
   position: relative;
+
+  display: flex;
+  align-items: baseline;
+  gap: 0.65rem;
 
   margin: 0 0 1.9rem;
   padding-bottom: 0.75rem;
@@ -301,6 +309,21 @@ select {
   border-radius: 999px;
 }
 
+.section-number {
+  color: var(--accent);
+
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+}
+
+.section-context {
+  color: var(--muted);
+
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
 /* =========================================================
    RESEARCH SUBSECTIONS
    ========================================================= */
@@ -375,6 +398,42 @@ select {
   line-height: 1.45;
 }
 
+/* =========================================================
+   PAPER INTERACTIONS
+   ========================================================= */
+
+.paper-entry:not(.featured-paper) {
+  transition:
+    transform 0.18s ease,
+    opacity 0.18s ease;
+}
+
+.paper-entry h4 {
+  transition: color 0.18s ease;
+}
+
+.paper-entry:not(.featured-paper):hover {
+  transform: translateX(4px);
+}
+
+.paper-entry:hover h4 {
+  color: var(--accent-dark);
+}
+
+.featured-paper {
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    border-color 0.18s ease;
+}
+
+.featured-paper:hover {
+  transform: translateY(-2px);
+  border-color: #bdd7e1;
+  box-shadow:
+    0 3px 8px rgba(30, 36, 42, 0.06),
+    0 14px 32px rgba(30, 36, 42, 0.07);
+}
 /* =========================================================
    FEATURED JOB MARKET PAPER
    ========================================================= */
@@ -650,6 +709,30 @@ button:focus-visible {
 @media (max-width: 620px) {
   html {
     scroll-padding-top: 120px;
+     .profile-photo-wrap {
+  width: 180px;
+}
+
+.profile-photo-wrap::before {
+  top: 8px;
+  left: 8px;
+}
+
+.eyebrow {
+  font-size: 0.72rem !important;
+}
+
+.section-title {
+  gap: 0.5rem;
+}
+
+.section-context {
+  font-size: 0.73rem;
+}
+
+.paper-entry:not(.featured-paper):hover {
+  transform: none;
+}
   }
 
   .nav-wrap,
@@ -755,4 +838,64 @@ button:focus-visible {
   .site-nav {
     font-size: 0.9rem;
   }
+}
+
+/* =========================================================
+   ENHANCED ABOUT SECTION
+   ========================================================= */
+
+.profile-photo-wrap {
+  position: relative;
+  width: 220px;
+  isolation: isolate;
+}
+
+.profile-photo-wrap::before {
+  position: absolute;
+  top: 11px;
+  left: 11px;
+  z-index: -1;
+
+  width: 100%;
+  height: 100%;
+
+  content: "";
+  background: var(--accent-soft);
+  border: 1px solid #d2e4ea;
+  border-radius: 14px;
+}
+
+.profile-photo {
+  position: relative;
+  z-index: 1;
+}
+
+.eyebrow {
+  margin: 0 0 0.75rem !important;
+
+  color: var(--accent-dark);
+
+  font-size: 0.76rem !important;
+  font-weight: 780;
+  line-height: 1.4;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+}
+
+.status-badge {
+  display: inline-flex;
+  align-items: center;
+
+  width: fit-content;
+  margin: 0.15rem 0 0 !important;
+  padding: 0.38rem 0.75rem;
+
+  color: #73571f;
+  background: #faf1dc;
+  border: 1px solid #ead8aa;
+  border-radius: 999px;
+
+  font-size: 0.86rem;
+  font-weight: 680;
+  line-height: 1.25;
 }
